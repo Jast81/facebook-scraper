@@ -14,7 +14,7 @@ class TestGetPosts:
             'comments_full': None,
             'factcheck': None,
             'image': 'https://scontent.fhlz2-1.fna.fbcdn.net/v/t1.6435-9/fr/cp0/e15/q65/96724875_3065146506903115_4237164853036318720_n.jpg?_nc_cat=103&ccb=1-3&_nc_sid=8024bb&_nc_ohc=SvpNqSK7ILIAX93ehWM&_nc_ht=scontent.fhlz2-1.fna&tp=14&oh=d32fa3269feeaf6904d78a512f41ab26&oe=60E673C5',
-            'image_id': '3065146500236449',
+            'image_id': 'https://www.facebook.com/photo/?fbid=1221360349032484&set=a.104362500732280',
             'image_ids': [
                 '3065146500236449',
                 '3065146626903103',
